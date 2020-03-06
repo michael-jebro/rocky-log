@@ -1,2 +1,2 @@
-# Login system on Flask
-Simple PostgreSQL based login system on flask with secure cookies and unique session IDs
+# Flask login system
+Simple PostgreSQL based login system created with Flask using secure cookies and session IDs

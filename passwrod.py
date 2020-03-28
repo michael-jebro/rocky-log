@@ -55,7 +55,7 @@ class Passwrod:
         return pbkdf2_hash.hex()
 
 
-    # TO FUCKING DO
+    # TO DO
     def __throw_errors_if_necessary(self, password, salt):
         if not isinstance(password, str):
             raise PasswordError(PASS_ERR_MESS['not_str'])
